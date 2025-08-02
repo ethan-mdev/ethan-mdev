@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey, I’m Ethan 👋
 
-<!--
-**handkrchief/handkrchief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm focused on learning backend development and building systems that actually work.  
+Mostly working on web tools for game projects, but I’ll dive into whatever strikes my interest.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Some of the Tools & Tech I Use
+- Node.js / Express  
+- MySQL / SQL  
+- Python  
+- HTML / CSS / JavaScript  
+- Git
