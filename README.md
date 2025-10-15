@@ -5,9 +5,3 @@ Mostly working on web tools for game projects, but I’ll dive into whatever str
 
 ---
 
-### 🔧 Some of the Tools & Tech I Use
-- Node.js / Express  
-- MySQL / SQL  
-- Python  
-- HTML / CSS / JavaScript  
-- Git
