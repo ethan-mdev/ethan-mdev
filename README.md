@@ -24,13 +24,6 @@ Most of my projects revolve around authentication, service tooling, and full-sta
 
 ---
 
-### 🧰 Tech I use frequently
-**Go**, **TypeScript**, **SvelteKit**, **Svelte**,  
-**SQLite**, **PostgreSQL**,  
-**Docker**, **Linux**, **Kubernetes**, **AWS**
-
----
-
 ### 📫 Contact
 - **Website:** https://ethan-mdev.com  
 - **Email:** ethanm.dev@proton.me  
