@@ -17,7 +17,6 @@ Most of my projects revolve around authentication, service tooling, and full-sta
 
 ### 🔧 What I'm working on
 - **Authentication Service** — modular Go auth microservice built on my reusable `central-auth` toolkit  
-- **Service Watch** — Windows service monitor with embedded Svelte UI and automated recovery logic  
 - **PageShelf** — self-hosted manga/comic reader with SQLite metadata + mobile-first UI  
 - **Game platform ecosystem** — launcher, patching pipeline, integrity verification, and web portal tools  
 - **Homelab projects** — learning Linux networking, service orchestration, and small-scale infrastructure
