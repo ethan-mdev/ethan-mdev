@@ -7,6 +7,7 @@ Most of my projects revolve around authentication, service tooling, and full-sta
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
