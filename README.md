@@ -1,7 +1,7 @@
 # Hey, I'm Ethan 👋
 
-Software developer focused on backend systems, distributed services, and building tools that actually work.  
-Most of my projects revolve around authentication, service tooling, and full-stack apps for custom game environments.
+Software developer focused on backend systems, distributed services, and building tools that work.  
+Most of my projects revolve around authentication, service tooling, and full-stack apps for game environments.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square" />
@@ -17,8 +17,7 @@ Most of my projects revolve around authentication, service tooling, and full-sta
 ---
 
 ### 🔧 What I'm working on
-- **Authentication Service** — modular Go auth microservice built on my reusable `central-auth` toolkit  
-- **PageShelf** — self-hosted manga/comic reader with SQLite metadata + mobile-first UI  
+- **Authentication Service** — Go auth service built on my reusable `central-auth` toolkit using a legacy game DB to test features on
 - **Game platform ecosystem** — launcher, patching pipeline, integrity verification, and web portal tools  
 - **Homelab projects** — learning Linux networking, service orchestration, and small-scale infrastructure
 
